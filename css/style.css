@@ -9,4 +9,10 @@
 --dark-purple: #310a31ff;
 --goldenrod: #d19c1dff;
 
+}h1{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
 }
